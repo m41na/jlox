@@ -10,3 +10,24 @@ yarn-error.log
 *.ntvs*
 *.njsproj
 *.sln
+
+#IDE artifacts
+.classpath
+.project
+.vertx
+.settings
+.metadata
+.recommenders
+.idea/
+**/.settings
+target/
+**/target
+*.class
+*.jar
+*.log
+*.war
+*.iml
+node_modules
+nbproject
+nbactions.xml
+nb-configuration.xml
